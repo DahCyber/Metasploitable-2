@@ -51,7 +51,7 @@ nmap -sS -sV -O 192.168.56.101
 
 ```
 ## Screenshots
-## Screenshots
+
 
 | Nmap Scan | Exploit in Progress | Root Access |
 |-----------|---------------------|-------------|
